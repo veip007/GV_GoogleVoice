@@ -28,7 +28,7 @@
 
 5、登录 Google Drive，单击左上角的“新建”。按下图新建一个 Google App Script。(如未找到可以在“关联更多应用”里面查找“Google Apps Script”关联一下就有了。)
 
-![4](https://www.moeelf.com/action/Watermark?mark=L3Vzci91cGxvYWRzLzIwMTkvMDUvNDEwOTkyNDk4OS5wbmc=)
+![4](https://camo.githubusercontent.com/aaa646b15ef963673f08a00c2387009a34ef1e15/68747470733a2f2f7777772e6d6f65656c662e636f6d2f616374696f6e2f57617465726d61726b3f6d61726b3d4c33567a63693931634778765957527a4c7a49774d546b764d4455764e4445774f546b794e446b344f533577626d633d)
 
 6、复制下面的代码替换现有的代码。
 ```bash
