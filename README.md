@@ -23,7 +23,7 @@
 
 4、选择如下图所示后点击“创建过滤器”即可。
 
-![3](https://www.moeelf.com/action/Watermark?mark=L3Vzci91cGxvYWRzLzIwMTkvMDUvMzYwODM1MDMzMy5wbmc=)
+![3](https://camo.githubusercontent.com/6992412e3846375845b524f4dcb4b81572597b83/68747470733a2f2f7777772e6d6f65656c662e636f6d2f616374696f6e2f57617465726d61726b3f6d61726b3d4c33567a63693931634778765957527a4c7a49774d546b764d4455764d7a59774f444d314d444d7a4d793577626d633d)
 
 
 5、登录 Google Drive，单击左上角的“新建”。按下图新建一个 Google App Script。(如未找到可以在“关联更多应用”里面查找“Google Apps Script”关联一下就有了。)
