@@ -4,7 +4,7 @@
 
 1、注册登录 [IFTTT](https://ifttt.com)
 
-2、配置 [Keep Google Voice Active (Send Messege)](https://www.moeelf.com/go/aHR0cHM6Ly9pZnR0dC5jb20vYXBwbGV0cy9Tc254VFlaSi1rZWVwLWdvb2dsZS12b2ljZS1hY3RpdmUtc2VuZC1tZXNzZWdl) (时区注意选择BeiJing。可以自己定义发送的时间及发送信息的内容。)
+2、配置 [Keep Google Voice Active (Send Messege)](https://ifttt.com/applets/SsnxTYZJ-keep-google-voice-active-send-messege) (时区注意选择BeiJing。可以自己定义发送的时间及发送信息的内容。)
 
 3、设置好后即可自动给你的 GV 码发送信息了。（你可以设置一下离你现在时间最近的时间测试。功能是已经测试过的没有问题的。）
 
