@@ -2,7 +2,7 @@
 
 ### 一、自动发送信息
 
-1、注册登录 [IFTTT](https://www.moeelf.com/go/aHR0cHM6Ly9pZnR0dC5jb20=)
+1、注册登录 [IFTTT](https://ifttt.com)
 
 2、配置 [Keep Google Voice Active (Send Messege)](https://www.moeelf.com/go/aHR0cHM6Ly9pZnR0dC5jb20vYXBwbGV0cy9Tc254VFlaSi1rZWVwLWdvb2dsZS12b2ljZS1hY3RpdmUtc2VuZC1tZXNzZWdl) (时区注意选择BeiJing。可以自己定义发送的时间及发送信息的内容。)
 
