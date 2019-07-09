@@ -1,30 +1,32 @@
-## Google Voice ±£ºÅ/×Ô¶¯·¢ËÍ¼°»Ø¸´ĞÅÏ¢
+## Google Voice ä¿å·/è‡ªåŠ¨å‘é€åŠå›å¤ä¿¡æ¯
 
-### Ò»¡¢×Ô¶¯·¢ËÍĞÅÏ¢
+### ä¸€ã€è‡ªåŠ¨å‘é€ä¿¡æ¯
 
-1¡¢×¢²áµÇÂ¼ [IFTTT](https://www.moeelf.com/go/aHR0cHM6Ly9pZnR0dC5jb20=)
-2¡¢ÅäÖÃ [Keep Google Voice Active (Send Messege)](https://www.moeelf.com/go/aHR0cHM6Ly9pZnR0dC5jb20vYXBwbGV0cy9Tc254VFlaSi1rZWVwLWdvb2dsZS12b2ljZS1hY3RpdmUtc2VuZC1tZXNzZWdl) (Ê±Çø×¢ÒâÑ¡ÔñBeiJing¡£¿ÉÒÔ×Ô¼º¶¨Òå·¢ËÍµÄÊ±¼ä¼°·¢ËÍĞÅÏ¢µÄÄÚÈİ¡£)
-3¡¢ÉèÖÃºÃºó¼´¿É×Ô¶¯¸øÄãµÄ GV Âë·¢ËÍĞÅÏ¢ÁË¡££¨Äã¿ÉÒÔÉèÖÃÒ»ÏÂÀëÄãÏÖÔÚÊ±¼ä×î½üµÄÊ±¼ä²âÊÔ¡£¹¦ÄÜÊÇÒÑ¾­²âÊÔ¹ıµÄÃ»ÓĞÎÊÌâµÄ¡££©
+1ã€æ³¨å†Œç™»å½• [IFTTT](https://www.moeelf.com/go/aHR0cHM6Ly9pZnR0dC5jb20=)
+2ã€é…ç½® [Keep Google Voice Active (Send Messege)](https://www.moeelf.com/go/aHR0cHM6Ly9pZnR0dC5jb20vYXBwbGV0cy9Tc254VFlaSi1rZWVwLWdvb2dsZS12b2ljZS1hY3RpdmUtc2VuZC1tZXNzZWdl) (æ—¶åŒºæ³¨æ„é€‰æ‹©BeiJingã€‚å¯ä»¥è‡ªå·±å®šä¹‰å‘é€çš„æ—¶é—´åŠå‘é€ä¿¡æ¯çš„å†…å®¹ã€‚)
+3ã€è®¾ç½®å¥½åå³å¯è‡ªåŠ¨ç»™ä½ çš„ GV ç å‘é€ä¿¡æ¯äº†ã€‚ï¼ˆä½ å¯ä»¥è®¾ç½®ä¸€ä¸‹ç¦»ä½ ç°åœ¨æ—¶é—´æœ€è¿‘çš„æ—¶é—´æµ‹è¯•ã€‚åŠŸèƒ½æ˜¯å·²ç»æµ‹è¯•è¿‡çš„æ²¡æœ‰é—®é¢˜çš„ã€‚ï¼‰
 
 
-### ¶ş¡¢×Ô¶¯»Ø¸´ĞÅÏ¢
+### äºŒã€è‡ªåŠ¨å›å¤ä¿¡æ¯
 
-1¡¢µÇÈë GV£¬ÏÈÔÚ GV ÀïÃæÉèÖÃÀïÃæ°Ñ¡°½«ÏûÏ¢×ª·¢µ½µç×ÓÓÊ¼ş¡±´ò¿ª¡£
-2¡¢µÇÈë Gmail£¬ÔÚÉèÖÃÀïÑ¡Ôñ¡°¹ıÂËÆ÷ºÍÆÁ±ÎµÄµØÖ·¡± --> ¡°´´½¨ĞÂµÄ¹ıÂËÆ÷¡± --> ÔÚ·¢¼şÈË´¦ÌîĞ´ ¡°@txt.voice.google.com¡±¡£ÈçÏÂÍ¼ËùÊ¾£º
+1ã€ç™»å…¥ GVï¼Œå…ˆåœ¨ GV é‡Œé¢è®¾ç½®é‡Œé¢æŠŠâ€œå°†æ¶ˆæ¯è½¬å‘åˆ°ç”µå­é‚®ä»¶â€æ‰“å¼€ã€‚
+2ã€ç™»å…¥ Gmailï¼Œåœ¨è®¾ç½®é‡Œé€‰æ‹©â€œè¿‡æ»¤å™¨å’Œå±è”½çš„åœ°å€â€ --> â€œåˆ›å»ºæ–°çš„è¿‡æ»¤å™¨â€ --> åœ¨å‘ä»¶äººå¤„å¡«å†™ â€œ@txt.voice.google.comâ€ã€‚å¦‚ä¸‹å›¾æ‰€ç¤ºï¼š
 
-![1](https://www.moeelf.com/action/Watermark?mark=L3Vzci91cGxvYWRzLzIwMTkvMDUvODM4MzU0ODMyLnBuZw==)
+![1](https://camo.githubusercontent.com/f52a4f300edb7c383bb829216605a8c18b411801/68747470733a2f2f7777772e6d6f65656c662e636f6d2f616374696f6e2f57617465726d61726b3f6d61726b3d4c33567a63693931634778765957527a4c7a49774d546b764d4455764f444d344d7a55304f444d794c6e42755a773d3d)
 
-3¡¢µã»÷¡°´´½¨¹ıÂËÆ÷¡±£¬ÔÚµ¯³öµÄ¶Ô»°¿òµã»÷¡°Ñ¡Ôñ±êÇ©¡± --> ¡°ĞÂ½¨±êÇ©¡±£¬ÊäÈë±êÇ©ÃûÎª¡°autoreply¡±£¬µã»÷´´½¨¼´¿É¡£
+3ã€ç‚¹å‡»â€œåˆ›å»ºè¿‡æ»¤å™¨â€ï¼Œåœ¨å¼¹å‡ºçš„å¯¹è¯æ¡†ç‚¹å‡»â€œé€‰æ‹©æ ‡ç­¾â€ --> â€œæ–°å»ºæ ‡ç­¾â€ï¼Œè¾“å…¥æ ‡ç­¾åä¸ºâ€œautoreplyâ€ï¼Œç‚¹å‡»åˆ›å»ºå³å¯ã€‚
 
-![2](https://www.moeelf.com/action/Watermark?mark=L3Vzci91cGxvYWRzLzIwMTkvMDUvMTA4MTg5MDI4OS5wbmc=)
-4¡¢Ñ¡ÔñÈçÏÂÍ¼ËùÊ¾ºóµã»÷¡°´´½¨¹ıÂËÆ÷¡±¼´¿É¡£
+![2](https://camo.githubusercontent.com/9aaf099afeaee93354aaaa045a19b920f63b8608/68747470733a2f2f7777772e6d6f65656c662e636f6d2f616374696f6e2f57617465726d61726b3f6d61726b3d4c33567a63693931634778765957527a4c7a49774d546b764d4455764d5441344d5467354d4449344f533577626d633d)
+4ã€é€‰æ‹©å¦‚ä¸‹å›¾æ‰€ç¤ºåç‚¹å‡»â€œåˆ›å»ºè¿‡æ»¤å™¨â€å³å¯ã€‚
 
-![3](https://www.moeelf.com/action/Watermark?mark=L3Vzci91cGxvYWRzLzIwMTkvMDUvMzYwODM1MDMzMy5wbmc=)
-5¡¢µÇÂ¼ Google Drive£¬µ¥»÷×óÉÏ½ÇµÄ¡°ĞÂ½¨¡±¡£°´ÏÂÍ¼ĞÂ½¨Ò»¸ö Google App Script¡£(ÈçÎ´ÕÒµ½¿ÉÒÔÔÚ¡°¹ØÁª¸ü¶àÓ¦ÓÃ¡±ÀïÃæ²éÕÒ¡°Google Apps Script¡±¹ØÁªÒ»ÏÂ¾ÍÓĞÁË¡£)
+![3](https://camo.githubusercontent.com/9aaf099afeaee93354aaaa045a19b920f63b8608/68747470733a2f2f7777772e6d6f65656c662e636f6d2f616374696f6e2f57617465726d61726b3f6d61726b3d4c33567a63693931634778765957527a4c7a49774d546b764d4455764d5441344d5467354d4449344f533577626d633d)
 
-![4](https://www.moeelf.com/action/Watermark?mark=L3Vzci91cGxvYWRzLzIwMTkvMDUvNDEwOTkyNDk4OS5wbmc=)
 
-6¡¢¸´ÖÆÏÂÃæµÄ´úÂëÌæ»»ÏÖÓĞµÄ´úÂë¡£
+5ã€ç™»å½• Google Driveï¼Œå•å‡»å·¦ä¸Šè§’çš„â€œæ–°å»ºâ€ã€‚æŒ‰ä¸‹å›¾æ–°å»ºä¸€ä¸ª Google App Scriptã€‚(å¦‚æœªæ‰¾åˆ°å¯ä»¥åœ¨â€œå…³è”æ›´å¤šåº”ç”¨â€é‡Œé¢æŸ¥æ‰¾â€œGoogle Apps Scriptâ€å…³è”ä¸€ä¸‹å°±æœ‰äº†ã€‚)
+
+![4](https://camo.githubusercontent.com/6992412e3846375845b524f4dcb4b81572597b83/68747470733a2f2f7777772e6d6f65656c662e636f6d2f616374696f6e2f57617465726d61726b3f6d61726b3d4c33567a63693931634778765957527a4c7a49774d546b764d4455764d7a59774f444d314d444d7a4d793577626d633d)
+
+6ã€å¤åˆ¶ä¸‹é¢çš„ä»£ç æ›¿æ¢ç°æœ‰çš„ä»£ç ã€‚
 ```bash
 function autoReplier() {
   var labelObj = GmailApp.getUserLabelByName('autoreply');
@@ -32,8 +34,8 @@ function autoReplier() {
   var messages;
   var messagecount;
   var sender;
-  var num = 9;  //ÉèÖÃÁ¬Ğø×Ô¶¯»Ø¸´ÓÊ¼şµÄ´ÎÊı£¨Îª·ÀÖ¹Á½ÈË¶¼ÊÇ×Ô¶¯»Ø¸´£¬µ±·¢ËÍ´ÎÊı´ïµ½ 9 Ê±½«²»×Ô¶¯»Ø¸´£©¡£
-  var hours = 12;  //Èç¹û×Ô¶¯»Ø¸´´ÎÊı³¬¹ıÁËÉÏÃæÉèÖÃµÄÖµ£¬¹ıÁË¶àÉÙĞ¡Ê±ºóÓÖ¿ÉÒÔ×Ô¶¯»Ø¸´¡£
+  var num = 9;  //è®¾ç½®è¿ç»­è‡ªåŠ¨å›å¤é‚®ä»¶çš„æ¬¡æ•°ï¼ˆä¸ºé˜²æ­¢ä¸¤äººéƒ½æ˜¯è‡ªåŠ¨å›å¤ï¼Œå½“å‘é€æ¬¡æ•°è¾¾åˆ° 9 æ—¶å°†ä¸è‡ªåŠ¨å›å¤ï¼‰ã€‚
+  var hours = 12;  //å¦‚æœè‡ªåŠ¨å›å¤æ¬¡æ•°è¶…è¿‡äº†ä¸Šé¢è®¾ç½®çš„å€¼ï¼Œè¿‡äº†å¤šå°‘å°æ—¶ååˆå¯ä»¥è‡ªåŠ¨å›å¤ã€‚
     
   for (var gg = 0; gg < labelObj.getUnreadCount(); gg++) {
     gmailThreads = labelObj.getThreads()[gg];
@@ -47,9 +49,9 @@ function autoReplier() {
         sender = messages[ii].getFrom(); 
  
         if (messagecount < num){
-          MailApp.sendEmail(sender, "Auto Reply", "Hi, ÄúºÃ£¡ÕâÊÇÒ»Ìõ×Ô¶¯»Ø¸´¶ÌĞÅ£¡±¾¶ÌĞÅÓÉ Google Apps Script ×Ô¶¯·¢³ö¡£");
+          MailApp.sendEmail(sender, "Auto Reply", "Hi, æ‚¨å¥½ï¼è¿™æ˜¯ä¸€æ¡è‡ªåŠ¨å›å¤çŸ­ä¿¡ï¼æœ¬çŸ­ä¿¡ç”± Google Apps Script è‡ªåŠ¨å‘å‡ºã€‚");
         }else if( (messages[messagecount - 1].getDate().getTime() - messages[messagecount - num].getDate().getTime()) > hours * 60 * 60 * 1000 ){
-          MailApp.sendEmail(sender, "Auto Reply", "Hi, ÄúºÃ£¡ÕâÊÇÒ»Ìõ×Ô¶¯»Ø¸´¶ÌĞÅ£¡±¾¶ÌĞÅÓÉ Google Apps Script ×Ô¶¯·¢³ö¡£");
+          MailApp.sendEmail(sender, "Auto Reply", "Hi, æ‚¨å¥½ï¼è¿™æ˜¯ä¸€æ¡è‡ªåŠ¨å›å¤çŸ­ä¿¡ï¼æœ¬çŸ­ä¿¡ç”± Google Apps Script è‡ªåŠ¨å‘å‡ºã€‚");
         }
         messages[ii].markRead();
         messages[ii].moveToTrash();
@@ -60,15 +62,15 @@ function autoReplier() {
 }
 ```
 
-7¡¢µã»÷±£´æ£¬ÔÚµ¯³öµÄ¶Ô»°¿òÖĞÊä³öÄãÒªÏÔÊ¾µÄÃû³Æ£¬ÀıÈç£ºautoReplier¡£ÔÙµ¥»÷¡°µ÷ÊÔ¡±»áÌáÊ¾ÄãÊÚÈ¨£¬Äã°´ÌáÊ¾ÊÚÈ¨¼´¿É¡£ÊÚÈ¨Íêºó»áÌáÊ¾Ã»ÓĞÕÒµ½ÎÄ¼şÖ®ÀàµÄ£¬²»ÓÃ¹Ü¡£
-8¡¢ÔÙ´Îµã»÷¡°µ÷ÊÔ¡±£¬Èç¹ûÃ»ÓĞÈÎºÎÌáÊ¾ËµÃ÷½Å±¾Ã»ÓĞ´íÎó¡£ÄãÒ²¿ÉÒÔÔÚ¡°²é¿´¡± --> ¡°ÈÕÖ¾¡± --> ¡°Apps ½Å±¾ĞÅÏ¢ÖĞĞÄ¡±ÖĞ²é¿´½Å±¾ÔËĞĞ×´Ì¬¡£Èç¹ûÏÔÊ¾×´Ì¬ÎªÒÑÍê³ÉÔò±íÊ¾½Å±¾Ã»ÓĞ´íÎó¡£
+7ã€ç‚¹å‡»ä¿å­˜ï¼Œåœ¨å¼¹å‡ºçš„å¯¹è¯æ¡†ä¸­è¾“å‡ºä½ è¦æ˜¾ç¤ºçš„åç§°ï¼Œä¾‹å¦‚ï¼šautoReplierã€‚å†å•å‡»â€œè°ƒè¯•â€ä¼šæç¤ºä½ æˆæƒï¼Œä½ æŒ‰æç¤ºæˆæƒå³å¯ã€‚æˆæƒå®Œåä¼šæç¤ºæ²¡æœ‰æ‰¾åˆ°æ–‡ä»¶ä¹‹ç±»çš„ï¼Œä¸ç”¨ç®¡ã€‚
+8ã€å†æ¬¡ç‚¹å‡»â€œè°ƒè¯•â€ï¼Œå¦‚æœæ²¡æœ‰ä»»ä½•æç¤ºè¯´æ˜è„šæœ¬æ²¡æœ‰é”™è¯¯ã€‚ä½ ä¹Ÿå¯ä»¥åœ¨â€œæŸ¥çœ‹â€ --> â€œæ—¥å¿—â€ --> â€œApps è„šæœ¬ä¿¡æ¯ä¸­å¿ƒâ€ä¸­æŸ¥çœ‹è„šæœ¬è¿è¡ŒçŠ¶æ€ã€‚å¦‚æœæ˜¾ç¤ºçŠ¶æ€ä¸ºå·²å®Œæˆåˆ™è¡¨ç¤ºè„šæœ¬æ²¡æœ‰é”™è¯¯ã€‚
 
 ![5](https://www.moeelf.com/action/Watermark?mark=L3Vzci91cGxvYWRzLzIwMTkvMDUvNzA2MzQ2ODQ1LnBuZw==)
 
-9¡¢µ¥»÷¡°ĞŞ¸Ä¡± --> ¡°µ±Ç°ÏîÄ¿µÄ´¥·¢Æ÷¡± --> ÓÒÏÂ½ÇµÄ¡°Ìí¼Ó´¥·¢Æ÷¡±£¬°´ÏÂÍ¼ÉèÖÃºÃ±£´æ¼´¿É¡£
+9ã€å•å‡»â€œä¿®æ”¹â€ --> â€œå½“å‰é¡¹ç›®çš„è§¦å‘å™¨â€ --> å³ä¸‹è§’çš„â€œæ·»åŠ è§¦å‘å™¨â€ï¼ŒæŒ‰ä¸‹å›¾è®¾ç½®å¥½ä¿å­˜å³å¯ã€‚
 
-![6](https://www.moeelf.com/action/Watermark?mark=L3Vzci91cGxvYWRzLzIwMTkvMDUvNDE2MDYyNjQ5Mi5wbmc=)
+![6](https://camo.githubusercontent.com/3be707e008523c041b765d2191fb5060f952654f/68747470733a2f2f7777772e6d6f65656c662e636f6d2f616374696f6e2f57617465726d61726b3f6d61726b3d4c33567a63693931634778765957527a4c7a49774d546b764d4455764e4445324d4459794e6a51354d693577626d633d)
 
-10¡¢ºÃÁË£¬ÏÖÔÚÄã¿ÉÒÔ¸ø×Ô¼º·¢Ò»Ìõ¶ÌĞÅÊÔÊÔÁË¡£  £¨ÓĞÎÊÌâÇëÁôÑÔ£©
+10ã€å¥½äº†ï¼Œç°åœ¨ä½ å¯ä»¥ç»™è‡ªå·±å‘ä¸€æ¡çŸ­ä¿¡è¯•è¯•äº†ã€‚  ï¼ˆæœ‰é—®é¢˜è¯·ç•™è¨€ï¼‰
 
-±¾ÎÄ×ª×Ô[ÃÈ¾«Áé](https://www.moeelf.com)Ô­ÎÄµØÖ·£ºhttps://www.moeelf.com/archives/4.html
+æœ¬æ–‡è½¬è‡ª[èŒç²¾çµ](https://www.moeelf.com)åŸæ–‡åœ°å€ï¼šhttps://www.moeelf.com/archives/4.html
