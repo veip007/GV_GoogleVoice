@@ -2,7 +2,7 @@
 
 ### 一、自动发送信息
 
-1、注册登录 [IFTTT](https://ifttt.com)
+1、注册登录 [IFTTT](https://ifttt.com)       然后使用[保号程序](https://ifttt.com/applets/SMGSYPzw-google-voice)   使用此保号程序可以与第二步兼容，也可以忽略第二步
 
 2、配置 [Keep Google Voice Active (Send Messege)](https://ifttt.com/applets/SsnxTYZJ-keep-google-voice-active-send-messege) (时区注意选择BeiJing。可以自己定义发送的时间及发送信息的内容。)
 
@@ -15,20 +15,20 @@
 
 2、登入 Gmail，在设置里选择“过滤器和屏蔽的地址” --> “创建新的过滤器” --> 在发件人处填写 “@txt.voice.google.com”。如下图所示：
 
-![1](https://camo.githubusercontent.com/f52a4f300edb7c383bb829216605a8c18b411801/68747470733a2f2f7777772e6d6f65656c662e636f6d2f616374696f6e2f57617465726d61726b3f6d61726b3d4c33567a63693931634778765957527a4c7a49774d546b764d4455764f444d344d7a55304f444d794c6e42755a773d3d)
+![1](https://www.sximg.com/u/20200715/15282420.png)
 
 3、点击“创建过滤器”，在弹出的对话框点击“选择标签” --> “新建标签”，输入标签名为“autoreply”，点击创建即可。
 
-![2](https://camo.githubusercontent.com/9aaf099afeaee93354aaaa045a19b920f63b8608/68747470733a2f2f7777772e6d6f65656c662e636f6d2f616374696f6e2f57617465726d61726b3f6d61726b3d4c33567a63693931634778765957527a4c7a49774d546b764d4455764d5441344d5467354d4449344f533577626d633d)
+![2](https://www.sximg.com/u/20200715/15285454.png)
 
 4、选择如下图所示后点击“创建过滤器”即可。
 
-![3](https://camo.githubusercontent.com/6992412e3846375845b524f4dcb4b81572597b83/68747470733a2f2f7777772e6d6f65656c662e636f6d2f616374696f6e2f57617465726d61726b3f6d61726b3d4c33567a63693931634778765957527a4c7a49774d546b764d4455764d7a59774f444d314d444d7a4d793577626d633d)
+![3](https://www.sximg.com/u/20200715/15291563.png)
 
 
 5、登录 Google Drive，单击左上角的“新建”。按下图新建一个 Google App Script。(如未找到可以在“关联更多应用”里面查找“Google Apps Script”关联一下就有了。)
 
-![4](https://camo.githubusercontent.com/aaa646b15ef963673f08a00c2387009a34ef1e15/68747470733a2f2f7777772e6d6f65656c662e636f6d2f616374696f6e2f57617465726d61726b3f6d61726b3d4c33567a63693931634778765957527a4c7a49774d546b764d4455764e4445774f546b794e446b344f533577626d633d)
+![4](https://www.sximg.com/u/20200715/15294169.png)
 
 6、复制下面的代码替换现有的代码。
 ```bash
@@ -70,11 +70,11 @@ function autoReplier() {
 
 8、再次点击“调试”，如果没有任何提示说明脚本没有错误。你也可以在“查看” --> “日志” --> “Apps 脚本信息中心”中查看脚本运行状态。如果显示状态为已完成则表示脚本没有错误。
 
-![5](https://www.moeelf.com/action/Watermark?mark=L3Vzci91cGxvYWRzLzIwMTkvMDUvNzA2MzQ2ODQ1LnBuZw==)
+![5](https://www.sximg.com/u/20200715/15300642.png)
 
 9、单击“修改” --> “当前项目的触发器” --> 右下角的“添加触发器”，按下图设置好保存即可。
 
-![6](https://camo.githubusercontent.com/3be707e008523c041b765d2191fb5060f952654f/68747470733a2f2f7777772e6d6f65656c662e636f6d2f616374696f6e2f57617465726d61726b3f6d61726b3d4c33567a63693931634778765957527a4c7a49774d546b764d4455764e4445324d4459794e6a51354d693577626d633d)
+![6](https://www.sximg.com/u/20200715/15303596.png)
 
 10、好了，现在你可以给自己发一条短信试试了。  （有问题请留言）
 
