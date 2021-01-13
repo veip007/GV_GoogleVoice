@@ -15,20 +15,20 @@
 
 2、登入 Gmail，在设置里选择“过滤器和屏蔽的地址” --> “创建新的过滤器” --> 在发件人处填写 “@txt.voice.google.com”。如下图所示：
 
-![1](https://www.sximg.com/u/20200715/15282420.png)
+![1](https://raw.githubusercontent.com/veip007/GV_GoogleVoice/master/1.png)
 
 3、点击“创建过滤器”，在弹出的对话框点击“选择标签” --> “新建标签”，输入标签名为“autoreply”，点击创建即可。
 
-![2](https://www.sximg.com/u/20200715/15285454.png)
+![2](https://raw.githubusercontent.com/veip007/GV_GoogleVoice/master/2.png)
 
 4、选择如下图所示后点击“创建过滤器”即可。
 
-![3](https://www.sximg.com/u/20200715/15291563.png)
+![3](https://raw.githubusercontent.com/veip007/GV_GoogleVoice/master/3.png)
 
 
 5、登录 Google Drive，单击左上角的“新建”。按下图新建一个 Google App Script。(如未找到可以在“关联更多应用”里面查找“Google Apps Script”关联一下就有了。)
 
-![4](https://www.sximg.com/u/20200715/15294169.png)
+![4](https://raw.githubusercontent.com/veip007/GV_GoogleVoice/master/4.png)
 
 6、复制下面的代码替换现有的代码。
 ```bash
@@ -70,11 +70,11 @@ function autoReplier() {
 
 8、再次点击“调试”，如果没有任何提示说明脚本没有错误。你也可以在“查看” --> “日志” --> “Apps 脚本信息中心”中查看脚本运行状态。如果显示状态为已完成则表示脚本没有错误。
 
-![5](https://www.sximg.com/u/20200715/15300642.png)
+![5](https://raw.githubusercontent.com/veip007/GV_GoogleVoice/master/5.png)
 
 9、单击“修改” --> “当前项目的触发器” --> 右下角的“添加触发器”，按下图设置好保存即可。
 
-![6](https://www.sximg.com/u/20200715/15303596.png)
+![6](https://raw.githubusercontent.com/veip007/GV_GoogleVoice/master/6.png)
 
 10、好了，现在你可以给自己发一条短信试试了。  （有问题请留言）
 
